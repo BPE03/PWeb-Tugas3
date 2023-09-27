@@ -6444,6 +6444,14 @@ button.bg-success:focus {
   background-color: #36b9cc !important;
 }
 
+.bg-green {
+  background-color: green !important;
+}
+
+.bg-yellow {
+  background-color: rgb(243, 219, 0) !important;
+}
+
 a.bg-info:hover, a.bg-info:focus,
 button.bg-info:hover,
 button.bg-info:focus {
@@ -9595,6 +9603,22 @@ button.bg-dark:focus {
   color: #4e73df !important;
 }
 
+.text-cyan {
+  color: rgb(0, 204, 204) !important;
+}
+
+.text-yellow {
+  color: rgb(243, 219, 0) !important;
+}
+
+.text-green {
+  color: green !important;
+}
+
+.text-magenta {
+  color: #ff0077 !important;
+}
+
 a.text-primary:hover, a.text-primary:focus {
   color: #224abe !important;
 }
@@ -10042,6 +10066,22 @@ a:focus {
 
 .border-left-primary {
   border-left: 0.25rem solid #4e73df !important;
+}
+
+.border-left-cyan {
+  border-left: 0.25rem solid rgb(0, 204, 204) !important;
+}
+
+.border-left-yellow {
+  border-left: 0.25rem solid rgb(243, 219, 0) !important;
+}
+
+.border-left-green {
+  border-left: 0.25rem solid green !important;
+}
+
+.border-left-magenta {
+  border-left: 0.25rem solid #ff0077 !important;
 }
 
 .border-bottom-primary {
